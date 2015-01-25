@@ -34,3 +34,11 @@ nav {
 nav a, nav a:visited {
 	color: #fff;
 }
+
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
+
+body {
+	background-color: black;
+}
