@@ -30,3 +30,7 @@ h1, h2 {
 nav {
 	background: #00ff00;
 }
+
+nav a, nav a:visited {
+	color: #fff;
+}
