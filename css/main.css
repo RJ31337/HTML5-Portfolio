@@ -26,3 +26,7 @@ header {
 h1, h2 {
 	color: #fff;
 }
+
+nav {
+	background: #00ff00;
+}
