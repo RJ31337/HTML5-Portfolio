@@ -1,5 +1,11 @@
+body {
+	font-family: 'Share Tech Mono', sans-serif;
+	background-color: black;
+}
+
 a {
 	text-decoration: none;
+	color: #00cc00;
 }
 
 #wrapper {
@@ -15,11 +21,18 @@ a {
 }
 
 h1 {
-	font-family: 'Indie Flower', sans-serif;
+	font-family: 'Lobster', cursive;
+	margin: 15px 0;
+	font-size: 1.75em;
+	font-weight: normal;
+	line-height: 0.8em;
 }
 
-a {
-	color: #00cc00;
+h2 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 0.75em;
+	font-weight: normal;
+}
 }
 
 header {
@@ -41,8 +54,4 @@ nav a, nav a:visited {
 
 nav a.selected, nav a:hover {
 	color: #32673f;
-}
-
-body {
-	background-color: black;
 }
